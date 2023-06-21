@@ -2,3 +2,6 @@
 train
 validation
 *.pt
+*-extracted/
+*-detected.png
+*-detected.jpg
